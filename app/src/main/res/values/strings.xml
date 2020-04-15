@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">BibliMemo</string>
+
+    <!-- Navigation drawer header -->
+    <string name="nav_header_title">Bibli Mémo</string>
+    <string name="nav_header_desc">Logo bibli mémo</string>
+
+    <!-- Navigation drawer groups -->
+    <string name="menu_gr_listes">Listes</string>
+    <string name="menu_gr_communiquer">Communiquer</string>
+
+    <!-- Labels menus navigation -->
+    <string name="menu_bibliotheque">Ma bibliothèque</string>
+    <string name="menu_recherche">Recherche</string>
+    <string name="menu_favoris">Favoris</string>
+    <string name="menu_partage">Partage</string>
+    <string name="menu_wishlist">Wishlist</string>
+    <string name="menu_imprimer">Imprimer</string>
+    <string name="menu_exporter">Exporter</string>
+    <string name="menu_importer">Importer</string>
+    <string name="menu_reglages">Réglages</string>
+
+    <!-- Messages temporaires de navigation -->
+    <string name="msg_wishlist">Wishlist non encore implémentée.</string>
+    <string name="msg_favoris">Liste des favoris non encore implémentée.</string>
+    <string name="msg_partage">Liste de partage non encore implémentée.</string>
+    <string name="msg_recherche">Recherche d\'ouvrage non encore implémentée.</string>
+    <string name="msg_imprimer">Fonctionnalité imprimer non encore implémentée.</string>
+    <string name="msg_import">Fonctionnalité import non encore implémentée.</string>
+    <string name="msg_export">Fonctionnalité export non encore implémentée.</string>
+    <string name="msg_reglages">Réglages non encore implémentés.</string>
+
+
 </resources>
