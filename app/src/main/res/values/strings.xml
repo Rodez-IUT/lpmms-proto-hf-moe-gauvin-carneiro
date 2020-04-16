@@ -4,6 +4,8 @@
     <!-- Navigation drawer header -->
     <string name="nav_header_title">Bibli Mémo</string>
     <string name="nav_header_desc">Logo bibli mémo</string>
+    <string name="img_desc_logo_appli">Logo de l\'application Bibli mémo</string>
+    <string name="img_desc_favoris">Icône indiquant le statut favoris de l\'ouvrage</string>
 
     <!-- Navigation drawer groups -->
     <string name="menu_gr_listes">Listes</string>
