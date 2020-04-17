@@ -33,4 +33,50 @@
     <string name="msg_reglages">Réglages non encore implémentés.</string>
 
 
+    <!-- Etat lecture -->
+    <string name="toggle_lu">Lu</string>
+    <string name="toggle_non_lu">Non lu</string>
+
+
+    <!-- Labels détails ouvrage -->
+    <string name="lb_num_tome">N°</string>
+    <string name="lb_collection">Collec</string>
+    <string name="lb_format">Format</string>
+    <string name="lb_quantite">Qté</string>
+
+
+    <!-- Boites de dialogue -->
+    <string name="dialog_collection_titre">Collections</string>
+    <string name="dialog_partage_titre">Listes de partage</string>
+    <string name="dialog_formats_titre">Formats</string>
+    <string name="dialog_quantite_titre">Quantité</string>
+
+
+    <!-- Hints -->
+    <string name="hint_titre">Titre</string>
+    <string name="hint_auteur">Auteur</string>
+    <string name="hint_tome">Numéro de tome</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_collection">Collection</string>
+    <string name="hint_partage">Listes de partage</string>
+    <string name="hint_format">Format</string>
+    <string name="hint_quantite">Quantité</string>
+
+
+    <!-- Boutons -->
+    <string name="btn_ok">OK</string>
+    <string name="btn_annuler">Annuler</string>
+
+
+    <!-- Content description : détails de l'ouvrage -->
+    <string name="img_desc_miniature">Miniature de l\'ouvrage</string>
+    <string name="img_desc_type_ouvrage">Type de l\'ouvrage</string>
+    <string name="img_desc_description_ouvrage">Description de l\'ouvrage</string>
+    <string name="img_desc_auteur_ouvrage">Auteur de l\'ouvrage</string>
+    <string name="img_desc_partage_ouvrage">Listes de partage de l\'ouvrage</string>
+
+
+    <!-- Messages temporaires : à supprimer -->
+    <string name="tempo_suppression_ouvrage">Suppression de l\'ouvrage non implémentée.</string>
+    <string name="tempo_enregistrer_ouvrage">L\'ouvrage n\'est pas réellement enregistré.</string>
 </resources>
